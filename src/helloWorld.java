@@ -6,7 +6,7 @@ public class helloWorld {
         if (Objects.equals(firstLeter, "A")) {
             System.out.println("America");
         } else {
-            System.out.println("bla bla blas");
+            System.out.println("bla bla bla");
 
         }
     }
